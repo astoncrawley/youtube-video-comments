@@ -1,7 +1,7 @@
 # ▶️ YouTube Video Analysis
 
 ## 📌 Overview
-This project analyses viral YouTube video data using publicly available data. The goal is to explore text data analysis including the use of sentiment analysis, emoji analysis and engagement analysis to determine attributes that are common factors in viral videos. Interactive charts and visualisations are provided to support decision-making.
+This project analyses viral YouTube video data using publicly available data. The goal is to explore natural language processing including the use of tokenisation, stop word removal and sentiment analysis to determine attributes that are common factors in viral videos. Interactive charts and visualisations are provided to support decision-making.
 
 
 ## 🗂️ Project Structure
